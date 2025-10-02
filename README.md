@@ -1,3 +1,6 @@
+# DEPRECATED
+Some of the dependencies are no longer available, and Vault has built-in password generation functions now.  
+
 # Painless Password Rotation with HashiCorp Vault
 This guide demonstrates an automated password rotation workflow using HashiCorp Vault and a simple Bash or Powershell script. These scripts could be run in a cron job or scheduled task to dynamically update local system passwords on a regular basis.
 
